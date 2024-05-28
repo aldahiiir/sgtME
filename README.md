@@ -1,2 +1,2 @@
-# sgtME
+# 🎧 sgtME
 just a chrome extension to save songs in spotify that you liked on youtube...
